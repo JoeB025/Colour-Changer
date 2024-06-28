@@ -1,0 +1,22 @@
+body {
+  color: white;
+  background-color: rgb(0, 0, 0);
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;;
+}
+
+.button {
+  width: 300px;
+  height: 100px;
+  font-size: 30px;
+  color: white;
+  background-color: aqua;
+  font-weight: bold;
+  border-radius: 15px;
+  border: solid 2px white;
+}
